@@ -14,5 +14,3 @@
   "Main function that prints a greeting to the console."
   []
   (println greeting))
-
- 
